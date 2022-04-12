@@ -106,7 +106,7 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/alxneboy')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
+                    InlineKeyboardButton('Other Bots', url='https://t.me/infotechbots/24'),
                     InlineKeyboardButton('Source', url='https://github.com/infotechIT/FileRenameBot')
                 ]
             ]
